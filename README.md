@@ -79,7 +79,7 @@ app.component.html:
             <Cylinder-Area></Cylinder-Area>
         </div>
         <div class="footer">
-            Developed by: mohan raj a k
+            Developed by: jagan a
         </div>
     </div>
 </body>
